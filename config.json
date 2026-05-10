@@ -1,0 +1,48 @@
+{
+  "storeVersion": "1.0.0",
+  "apkDownloadUrl": "https://tu-servidor.com/raystore.apk",
+  "apps": [
+    {
+      "id": "1",
+      "name": "Netflix Premium",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/200px-Netflix_2015_logo.svg.png",
+      "apkUrl": "https://tu-servidor.com/apks/netflix.apk",
+      "version": "8.98.0"
+    },
+    {
+      "id": "2",
+      "name": "Disney+ Gold",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/200px-Disney%2B_logo.svg.png",
+      "apkUrl": "https://tu-servidor.com/apks/disney.apk",
+      "version": "2.26.0"
+    },
+    {
+      "id": "3",
+      "name": "IPTV Pro Max",
+      "icon": "https://play-lh.googleusercontent.com/hGRRMBhv9pFDsEtSGoifVnNpDXMLjE1bvFHFhUGvJtRmhMJhcpAbgWIkxHE1_u0Bcg=w240-h480",
+      "apkUrl": "https://tu-servidor.com/apks/iptv.apk",
+      "version": "3.1.0"
+    },
+    {
+      "id": "4",
+      "name": "HBO Max Ultra",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HBO_Max_Logo.svg/200px-HBO_Max_Logo.svg.png",
+      "apkUrl": "https://tu-servidor.com/apks/hbomax.apk",
+      "version": "52.50.0"
+    },
+    {
+      "id": "5",
+      "name": "Prime Video TV",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/200px-Amazon_Prime_Video_logo.svg.png",
+      "apkUrl": "https://tu-servidor.com/apks/prime.apk",
+      "version": "3.0.365"
+    },
+    {
+      "id": "6",
+      "name": "Stremio TV",
+      "icon": "https://www.stremio.com/website/stremio-logo-small.png",
+      "apkUrl": "https://dl.strem.io/android/v4.4.168/stremio-4.4.168.apk",
+      "version": "4.4.168"
+    }
+  ]
+}
