@@ -1,48 +1,29 @@
 {
   "storeVersion": "1.0.0",
-  "apkDownloadUrl": "https://tu-servidor.com/raystore.apk",
+  "apkDownloadUrl": "https://github.com/ray10fxsab/raystore-config/releases/download/v1.0.0/application-a6e8ffa6-f28a-422a-8416-1c57054d1942.apk",
   "apps": [
-    {
-      "id": "1",
-      "name": "Netflix Premium",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/200px-Netflix_2015_logo.svg.png",
-      "apkUrl": "https://tu-servidor.com/apks/netflix.apk",
-      "version": "8.98.0"
-    },
-    {
-      "id": "2",
-      "name": "Disney+ Gold",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/200px-Disney%2B_logo.svg.png",
-      "apkUrl": "https://tu-servidor.com/apks/disney.apk",
-      "version": "2.26.0"
-    },
-    {
-      "id": "3",
-      "name": "IPTV Pro Max",
-      "icon": "https://play-lh.googleusercontent.com/hGRRMBhv9pFDsEtSGoifVnNpDXMLjE1bvFHFhUGvJtRmhMJhcpAbgWIkxHE1_u0Bcg=w240-h480",
-      "apkUrl": "https://tu-servidor.com/apks/iptv.apk",
-      "version": "3.1.0"
-    },
-    {
-      "id": "4",
-      "name": "HBO Max Ultra",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HBO_Max_Logo.svg/200px-HBO_Max_Logo.svg.png",
-      "apkUrl": "https://tu-servidor.com/apks/hbomax.apk",
-      "version": "52.50.0"
-    },
-    {
-      "id": "5",
-      "name": "Prime Video TV",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/200px-Amazon_Prime_Video_logo.svg.png",
-      "apkUrl": "https://tu-servidor.com/apks/prime.apk",
-      "version": "3.0.365"
-    },
-    {
-      "id": "6",
-      "name": "Stremio TV",
-      "icon": "https://www.stremio.com/website/stremio-logo-small.png",
-      "apkUrl": "https://dl.strem.io/android/v4.4.168/stremio-4.4.168.apk",
-      "version": "4.4.168"
-    }
+    { "id": "1", "name": "1 PRIME", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/1prime.jpg", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "2", "name": "ARES TV", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/arestv.png", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "3", "name": "ELITE TV", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/elitetv.png", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "4", "name": "ENIGMA TV", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/enigma.png", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "5", "name": "FLIX", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/flix.png", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "6", "name": "FUTURE TV", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/future.png", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "7", "name": "INNOVA TV", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/innovatv.png", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "8", "name": "KAELUS TV", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/kaelus.png", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "9", "name": "LAM TV", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/lamtv.png", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "10", "name": "MASTER TV", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/mastertv.png", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "11", "name": "MITV", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/mitv.png", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "12", "name": "NEO", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/neo.png", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "13", "name": "OLEADA TV", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/oleada.jpg", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "14", "name": "ONE TV PLUS", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/onetvplus.png", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "15", "name": "RADIO CITY", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/radiosity.png", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "16", "name": "ROKU", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/roku.jpg", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "17", "name": "SOLO TV", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/solotv.png", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "18", "name": "STADIO MAX", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/stadiomax.png", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "19", "name": "SUNSET", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/sunset.jpg", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "20", "name": "SUPER TV", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/supertv.png", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "21", "name": "THUNDER TV", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/thundertv.png", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "22", "name": "TV APP REPO", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/tvaprepo.png", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" },
+    { "id": "23", "name": "ZONA TV", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/zona.png", "apkUrl": "PEGA_AQUI_LINK_APK", "version": "1.0.0" }
   ]
 }
