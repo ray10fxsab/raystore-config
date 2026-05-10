@@ -1,5 +1,7 @@
-"storeVersion": "1.0.3",
-"apkDownloadUrl": "https://github.com/ray10fxsab/raystore-config/releases/download/v1.0.4/RayStore-v1.0.3.apk",: [
+{
+  "storeVersion": "1.0.4",
+  "apkDownloadUrl": "https://github.com/ray10fxsab/raystore-config/releases/download/v1.0.4/RayStore-v1.0.3.apk",
+  "apps": [
     { "id": "1", "name": "1 PRIME", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/logos/1prime.jpg", "apkUrl": "https://github.com/ray10fxsab/raystore-config/releases/download/v1.0.2/1prime.apk", "version": "1.0.0" },
     { "id": "2", "name": "ARES TV", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/logos/arestv.png", "apkUrl": "https://github.com/ray10fxsab/raystore-config/releases/download/v1.0.2/arestv.apk", "version": "1.0.0" },
     { "id": "3", "name": "ELITE TV", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/logos/elitetv.png", "apkUrl": "https://github.com/ray10fxsab/raystore-config/releases/download/v1.0.2/elite.apk", "version": "1.0.0" },
