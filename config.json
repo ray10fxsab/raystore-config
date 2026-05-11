@@ -1,5 +1,5 @@
 {
-  "storeVersion": "1.1.1",
+  "storeVersion": "1.1.7",
   "apkDownloadUrl": "https://github.com/ray10fxsab/raystore-config/releases/download/v1.1.7/RayStore-v1.1.7.apk",
   "apps": [
     { "id": "1", "name": "1 PRIME", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/logos/1prime.jpg", "apkUrl": "https://github.com/ray10fxsab/raystore-config/releases/download/v1.1.1/1prime.apk", "version": "1.1.1" },
