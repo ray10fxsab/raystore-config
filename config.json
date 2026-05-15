@@ -163,12 +163,5 @@
       "apkUrl": "https://github.com/ray10fxsab/raystore-config/releases/download/v1.1.7/zonatv.apk",
       "version": "1.1.7"
     },
-    {
-      "id": "24",
-      "name": "WATTSAPP 8241122473",
-      "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/logos/wattsapp.png",
-      "apkUrl": "https://github.com/ray10fxsab/raystore-config/releases/download/v1.1.16/RayStore-v1.1.16.apk",
-      "version": "CREDENCIAL"
-    }
-  ]
-}
+  
+  }
