@@ -156,12 +156,12 @@
       "apkUrl": "https://github.com/ray10fxsab/raystore-config/releases/download/v1.1.7/tvaprepo.apk",
       "version": "1.1.7"
     },
-    {
+       {
       "id": "23",
       "name": "ZONA TV",
       "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/logos/zona.png",
       "apkUrl": "https://github.com/ray10fxsab/raystore-config/releases/download/v1.1.7/zonatv.apk",
       "version": "1.1.7"
-    },
-  
-  }
+    }
+  ]
+}
