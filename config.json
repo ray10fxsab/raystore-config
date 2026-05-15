@@ -24,7 +24,6 @@
     { "id": "20", "name": "SUPER TV", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/logos/supertv.png", "apkUrl": "https://github.com/ray10fxsab/raystore-config/releases/download/v1.1.7/supertv.apk", "version": "1.1.7" },
     { "id": "21", "name": "THUNDER TV", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/logos/thundertv.png", "apkUrl": "https://github.com/ray10fxsab/raystore-config/releases/download/v1.1.7/thunder.apk", "version": "1.1.7" },
     { "id": "22", "name": "TV APP REPO", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/logos/tvaprepo.png", "apkUrl": "https://github.com/ray10fxsab/raystore-config/releases/download/v1.1.7/tvaprepo.apk", "version": "1.1.7" },
-    { "id": "23", "name": "ZONA TV", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/logos/zona.png", "apkUrl": "https://github.com/ray10fxsab/raystore-config/releases/download/v1.1.7/zonatv.apk", "version": "1.1.7" },
-    { "id": "24", "name": "WATTSAPP 8241122473", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/logos/wattsapp.png", "apkUrl": "", "version": "CREDENCIAL" }
+    { "id": "23", "name": "ZONA TV", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/logos/zona.png", "apkUrl": "https://github.com/ray10fxsab/raystore-config/releases/download/v1.1.7/zonatv.apk", "version": "1.1.7" }
   ]
 }
