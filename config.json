@@ -1,6 +1,8 @@
 {
-  "storeVersion": "1.1.7",
-  "apkDownloadUrl": "https://github.com/ray10fxsab/raystore-config/releases/download/v1.1.7/RayStore-v1.1.7.apk",
+  "storeVersion": "1.1.15",
+  "apkDownloadUrl": "https://github.com/ray10fxsab/raystore-config/releases/download/v1.1.15/RayStore-v1.1.15.apk",
+  "supportLogo": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/logos/wattsapp.png",
+  "supportText": "WATTSAPP 8241122473",
   "apps": [
     { "id": "1", "name": "1 PRIME", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/logos/1prime.jpg", "apkUrl": "https://github.com/ray10fxsab/raystore-config/releases/download/v1.1.7/1prime.apk", "version": "1.1.7" },
     { "id": "2", "name": "ARES TV", "icon": "https://raw.githubusercontent.com/ray10fxsab/raystore-config/main/logos/arestv.png", "apkUrl": "https://github.com/ray10fxsab/raystore-config/releases/download/v1.1.7/arestv.apk", "version": "1.1.7" },
